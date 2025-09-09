@@ -76,7 +76,7 @@ public class PracticeProblem {
 		System.out.print("In: ");
         Scanner sc = new Scanner(System.in);
         double d1 = sc.nextDouble();
-        System.out.print("In: ");
+        System.out.println("In: ");
         double d2 = sc.nextDouble();
         boolean flag = d1 >= d2;
         System.out.println(flag);
